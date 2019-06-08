@@ -32,6 +32,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 - [Organization](#organization)
 - [Talk](#talk)
 - [Book](#book)
+- [Random Topics](#Random)
 
 ## Principle
 * [Lessons from Giant-Scale Services - Eric Brewer, UC Berkeley & Google](https://people.eecs.berkeley.edu/~brewer/papers/GiantScale-IEEE.pdf)
@@ -811,5 +812,9 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
+
+
+## Random Topics
+* [Sql Tuning](https://blog.jooq.org/sql/)
 
 #### *This project is created by [Binh Nguyen](https://www.linkedin.com/in/binhnguyennus/) in [2017 Christmas Eve](https://github.com/binhnguyennus/awesome-scalability/graphs/contributors). It is dedicated to late night programmers who sacrifice their personal life at work! If you see a link here that is no longer maintained or is not a good fit, please submit a pull request! Thank you and all the best :heart:*
